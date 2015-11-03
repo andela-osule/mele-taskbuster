@@ -8,3 +8,5 @@ taskbuster.sublime-workspace
 taskbuster.sublime-project
 
 env
+
+.DS_Store
